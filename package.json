@@ -22,7 +22,8 @@
     "dependencies" : {
         "binary" : "0.3.x",
         "buffers" : "0.1.x",
-        "jspack" : "0.0.x"
+        "jspack" : "0.0.x",
+        "duplex" : "~0.2.4"
     },
     "engine" : {
         "node" : "0.6"
